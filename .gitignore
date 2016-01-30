@@ -1,0 +1,14 @@
+# Compiled Sass files #
+#######################
+**/css/
+**/stylesheets/
+**/.sass-cache/
+
+screen.sass
+print.sass
+ie.sass
+
+
+# OS generated files #
+######################
+.DS_Store
